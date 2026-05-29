@@ -6,17 +6,6 @@ the goal here is to query the cleaned dataset using SQL and pull out business in
 
 ---
 
-## setup
-
-imported Dataset_Cleaned.csv into SQL Server using the Import Flat File wizard in SSMS. the table ended up as `dbo.p3` in the `decodelabs` database.
-
-- tool: SQL Server Management Studio 21
-- server: DESKTOP-MAK8LFV (SQL Server 16)
-- database: decodelabs
-- table: p3
-- rows: 1,200
-
----
 
 ## what i queried
 
